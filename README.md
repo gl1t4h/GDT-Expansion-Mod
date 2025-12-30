@@ -5,6 +5,4 @@ Ultimate LIB needed.
 Made by me and UME
 
 FEATURES:
-Assassin Topic 
-PS5 Platform
-Basketball Topic
+IN RELEASES
